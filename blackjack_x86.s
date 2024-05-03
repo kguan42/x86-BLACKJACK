@@ -3,7 +3,7 @@
 ; Matthew Latta
 ; Kevin Guan
 ;
-; Implement bets and wins
+; Final implementation of project
 ;
 
 base: db 0xff
